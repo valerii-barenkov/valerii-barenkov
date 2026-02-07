@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Valerii 👋
 
-<!--
-**valerii-barenkov/valerii-barenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer focused on AI, human–computer interaction, and accessible technologies.
 
-Here are some ideas to get you started:
+I build practical software: automation scripts, small backend tools, AI prototypes, and chat-based systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Main interests
+- Python development
+- AI and machine learning prototypes
+- Human–Computer Interaction (HCI)
+- Accessible and inclusive technologies
+- Automation and small backend systems
+
+---
+
+### 🚀 Featured projects
+- **Gesture2Text**  
+  Inclusive hand gesture recognition system for assistive human–computer interaction using MediaPipe and classical machine learning.
+
+- **EcoBuildOps**  
+  AI-assisted ESG and carbon footprint tracking system for construction waste management.
+
+---
+
+### 🎯 Current goals
+- Build strong AI- and HCI-oriented portfolio projects
+- Gain international freelance experience
+- Prepare for a Master’s degree in Computer Science
+
+---
+
+### 📫 Contact
+- Email: valerii.barenkov@gmail.com
